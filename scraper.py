@@ -1,14 +1,3 @@
-"""
-Zillow Real-Estate Agent Directory Scraper (Final Production Grade).
-Features:
-  - Windows-native Chrome CDP bridge (bypasses PerimeterX anti-bot heuristics).
-  - Silent network response interception (captures raw backend JSON packets).
-  - Native DOMParser + JSON-LD schema extraction for direct phone numbers,
-    emails, and full street addresses with postal codes.
-  - Multi-page pagination support.
-  - Client-facing CSV and JSON export pipelines.
-"""
-
 import argparse
 import json
 import logging
