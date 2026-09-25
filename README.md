@@ -129,13 +129,6 @@ The CSV and JSON outputs are the scraper's real, verified deliverables
 and are included in this repository as evidence of successful, repeated
 runs against Zillow's live, PerimeterX-protected agent directory.
 
-## Screenshots
-
-<!-- Add screenshots here -->
-
-## Sample Output
-
-<!-- Add a real sample output (CSV/JSON snippet) here -->
 
 ## Disclaimer
 
